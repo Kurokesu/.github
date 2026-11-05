@@ -35,7 +35,7 @@
     <td colspan="3" align="center" valign="top" width="25%">
       <b>onsemi AR0822</b><br>
       <a href="https://www.kurokesu.com/item/822C-CSI"><img src="img/sensor-ar0822.webp" alt="822C-CSI HDR MIPI CSI-2 camera module with onsemi AR0822 sensor." width="120"></a><br>
-      8 MP, HDR<br>
+      8.3 MP, HDR<br>
       <a href="https://www.kurokesu.com/item/822C-CSI"><b>822C-CSI</b></a>
     </td>
     <td colspan="3" align="center" valign="top" width="25%">
