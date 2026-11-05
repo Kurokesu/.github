@@ -47,7 +47,7 @@
     <td colspan="3" align="center" valign="top" width="25%">
       <b>Sony IMX462</b><br>
       <a href="https://www.kurokesu.com/item/462C-CSI"><img src="img/sensor-imx462.webp" alt="462C-CSI low light MIPI CSI-2 camera module with Sony IMX462 sensor." width="120"></a><br>
-      2 MP, STARVIS low light<br>
+      2.1 MP, STARVIS low light<br>
       <a href="https://www.kurokesu.com/item/462C-CSI"><b>462C-CSI</b></a>
     </td>
   </tr>
@@ -69,19 +69,19 @@
     <td colspan="3" align="center" valign="top" width="25%">
       <b>Sony IMX477</b><br>
       <a href="https://www.kurokesu.com/item/477C-CSI"><img src="img/sensor-imx477.webp" alt="477C-CSI 4-lane MIPI CSI-2 camera module with Sony IMX477 sensor." width="120"></a><br>
-      12.3 MP, 4-lane, HQ Camera compatible<br>
+      12.3 MP, 4-lane, HQ Camera<br>
       <a href="https://www.kurokesu.com/item/477C-CSI"><b>477C-CSI</b></a>
     </td>
     <td colspan="3" align="center" valign="top" width="25%">
       <b>Sony IMX585</b><br>
       <a href="https://www.kurokesu.com/item/585C-CSI"><img src="img/sensor-imx585.webp" alt="585C-CSI 4K low light MIPI CSI-2 camera module with Sony IMX585 sensor." width="120"></a><br>
-      8.3 MP 4K, STARVIS 2 HDR<br>
+      8.3 MP, STARVIS 2 HDR<br>
       <a href="https://www.kurokesu.com/item/585C-CSI"><b>585C-CSI</b></a>
     </td>
     <td colspan="3" align="center" valign="top" width="25%">
       <b>OmniVision OS08E10</b><br>
       <a href="https://www.kurokesu.com/item/0810-CSI"><img src="img/sensor-os08e10.webp" alt="0810-CSI near-infrared MIPI CSI-2 camera module with OmniVision OS08E10 sensor." width="120"></a><br>
-      8 MP 4K, near-infrared<br>
+      8.3 MP, near-infrared<br>
       <a href="https://www.kurokesu.com/item/0810-CSI"><b>0810-CSI</b></a>
     </td>
     <td rowspan="2" colspan="3" valign="middle" width="25%">
