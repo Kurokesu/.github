@@ -66,6 +66,8 @@
   </tr>
 </table>
 
+<br clear="all">
+
 <table align="left">
   <tr>
     <td align="center" valign="top" width="128">
