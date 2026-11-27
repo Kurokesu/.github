@@ -24,91 +24,69 @@
 
 ## Camera drivers for Raspberry Pi, NVIDIA Jetson, NXP i.MX 95 and Rockchip
 
-<table align="left">
+<table>
   <tr>
-    <td align="center" valign="top" width="128">
-      <b>onsemi<br>AR0234</b><br>
+    <td align="center" valign="top" width="25%">
+      <b>onsemi AR0234</b><br>
       <a href="https://www.kurokesu.com/item/234C-CSI"><img src="img/sensor-ar0234.webp" alt="234C-CSI global shutter MIPI CSI-2 camera module with onsemi AR0234 sensor." width="120"></a><br>
       2.3 MP<br>global shutter<br>
       <a href="https://www.kurokesu.com/item/234C-CSI"><b>234C-CSI</b></a>
     </td>
-    <td align="center" valign="top" width="128">
-      <b>onsemi<br>AR0822</b><br>
+    <td align="center" valign="top" width="25%">
+      <b>onsemi AR0822</b><br>
       <a href="https://www.kurokesu.com/item/822C-CSI"><img src="img/sensor-ar0822.webp" alt="822C-CSI HDR MIPI CSI-2 camera module with onsemi AR0822 sensor." width="120"></a><br>
       8.3 MP<br>HDR<br>
       <a href="https://www.kurokesu.com/item/822C-CSI"><b>822C-CSI</b></a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="128"><a href="https://github.com/Kurokesu/ar0234-rpi-driver">RPi</a>&nbsp;&nbsp; <a href="https://github.com/Kurokesu/ar0234-jetson-driver">Jetson</a><br>&nbsp;</td>
-    <td align="center" width="128"><a href="https://github.com/Kurokesu/ar0822-rpi-driver">RPi</a><br>&nbsp;</td>
-  </tr>
-</table>
-
-<table align="left">
-  <tr>
-    <td align="center" valign="top" width="128">
-      <b>Sony<br>IMX283</b><br>
+    <td align="center" valign="top" width="25%">
+      <b>Sony IMX283</b><br>
       <a href="https://www.kurokesu.com/item/283C-CSI"><img src="img/sensor-imx283.webp" alt="283C-CSI 1-inch MIPI CSI-2 camera module with Sony IMX283 sensor." width="120"></a><br>
       20 MP<br>1-inch<br>
       <a href="https://www.kurokesu.com/item/283C-CSI"><b>283C-CSI</b></a>
     </td>
-    <td align="center" valign="top" width="128">
-      <b>Sony<br>IMX462</b><br>
+    <td align="center" valign="top" width="25%">
+      <b>Sony IMX462</b><br>
       <a href="https://www.kurokesu.com/item/462C-CSI"><img src="img/sensor-imx462.webp" alt="462C-CSI low light MIPI CSI-2 camera module with Sony IMX462 sensor." width="120"></a><br>
       2.1 MP<br>STARVIS low light<br>
       <a href="https://www.kurokesu.com/item/462C-CSI"><b>462C-CSI</b></a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="128"><a href="https://github.com/Kurokesu/imx283-rpi-driver">RPi</a>&nbsp;&nbsp; <a href="https://github.com/Kurokesu/imx283-jetson-driver">Jetson</a><br>&nbsp;</td>
-    <td align="center" width="128"><a href="https://github.com/Kurokesu/imx462-rpi-driver">RPi</a>&nbsp;&nbsp; <a href="https://github.com/Kurokesu/imx462-jetson-driver">Jetson</a><br><a href="https://github.com/Kurokesu/meta-kurokesu-imx95">i.MX</a>&nbsp;&nbsp; <a href="https://github.com/Kurokesu/imx462-rk-driver">Rockchip</a></td>
+    <td align="center"><a href="https://github.com/Kurokesu/ar0234-rpi-driver">RPi</a>&nbsp;&nbsp; <a href="https://github.com/Kurokesu/ar0234-jetson-driver">Jetson</a></td>
+    <td align="center"><a href="https://github.com/Kurokesu/ar0822-rpi-driver">RPi</a></td>
+    <td align="center"><a href="https://github.com/Kurokesu/imx283-rpi-driver">RPi</a>&nbsp;&nbsp; <a href="https://github.com/Kurokesu/imx283-jetson-driver">Jetson</a></td>
+    <td align="center"><a href="https://github.com/Kurokesu/imx462-rpi-driver">RPi</a>&nbsp;&nbsp; <a href="https://github.com/Kurokesu/imx462-jetson-driver">Jetson</a><br><a href="https://github.com/Kurokesu/meta-kurokesu-imx95">i.MX</a>&nbsp;&nbsp; <a href="https://github.com/Kurokesu/imx462-rk-driver">Rockchip</a></td>
   </tr>
-</table>
-
-<br clear="all">
-
-<table align="left">
   <tr>
-    <td align="center" valign="top" width="128">
-      <b>Sony<br>IMX477</b><br>
+    <td align="center" valign="top" width="25%">
+      <b>Sony IMX477</b><br>
       <a href="https://www.kurokesu.com/item/477C-CSI"><img src="img/sensor-imx477.webp" alt="477C-CSI 4-lane MIPI CSI-2 camera module with Sony IMX477 sensor." width="120"></a><br>
-      12.3 MP<br>HQ Camera<br>
+      12.3 MP<br>4-lane, HQ&nbsp;Camera<br>
       <a href="https://www.kurokesu.com/item/477C-CSI"><b>477C-CSI</b></a>
     </td>
-    <td align="center" valign="top" width="128">
-      <b>Sony<br>IMX585</b><br>
+    <td align="center" valign="top" width="25%">
+      <b>Sony IMX585</b><br>
       <a href="https://www.kurokesu.com/item/585C-CSI"><img src="img/sensor-imx585.webp" alt="585C-CSI 4K low light MIPI CSI-2 camera module with Sony IMX585 sensor." width="120"></a><br>
       8.3 MP<br>STARVIS 2 HDR<br>
       <a href="https://www.kurokesu.com/item/585C-CSI"><b>585C-CSI</b></a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="128"><a href="https://github.com/Kurokesu/imx477-rpi-driver">RPi</a><br>&nbsp;</td>
-    <td align="center" width="128"><a href="https://github.com/Kurokesu/imx585-rpi-driver">RPi</a>&nbsp;&nbsp; <a href="https://github.com/Kurokesu/imx585-jetson-driver">Jetson</a><br>&nbsp;</td>
-  </tr>
-</table>
-
-<table align="left">
-  <tr>
-    <td align="center" valign="top" width="128">
-      <b>OmniVision<br>OS08E10</b><br>
+    <td align="center" valign="top" width="25%">
+      <b>OmniVision OS08E10</b><br>
       <a href="https://www.kurokesu.com/item/0810-CSI"><img src="img/sensor-os08e10.webp" alt="0810-CSI near-infrared MIPI CSI-2 camera module with OmniVision OS08E10 sensor." width="120"></a><br>
       8.3 MP<br>near-infrared<br>
       <a href="https://www.kurokesu.com/item/0810-CSI"><b>0810-CSI</b></a>
     </td>
-    <td rowspan="2" align="center" valign="middle" width="128">
+    <td rowspan="2" align="center" valign="middle" width="25%">
       <b>Next camera?</b><br>
-      Waiting for your input at<br>
-      <a href="mailto:info@kurokesu.com">info@&#8203;kurokesu.com</a>
+      Waiting for your input at <a href="mailto:info@kurokesu.com">info@kurokesu.com</a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="128"><a href="https://github.com/Kurokesu/os08e10-rpi-driver">RPi</a><br>&nbsp;</td>
+    <td align="center"><a href="https://github.com/Kurokesu/imx477-rpi-driver">RPi</a></td>
+    <td align="center"><a href="https://github.com/Kurokesu/imx585-rpi-driver">RPi</a>&nbsp;&nbsp; <a href="https://github.com/Kurokesu/imx585-jetson-driver">Jetson</a></td>
+    <td align="center"><a href="https://github.com/Kurokesu/os08e10-rpi-driver">RPi</a></td>
   </tr>
 </table>
-
-<br clear="all">
 
 ## Camera stack
 
